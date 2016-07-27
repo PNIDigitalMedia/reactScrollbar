@@ -2,7 +2,6 @@ var gulp = require('gulp');
 var webpack = require('webpack-stream');
 var concat = require('gulp-concat');
 var less = require('gulp-less');
-var babel = require('gulp-babel');
 var connect = require('gulp-connect');
 var merge = require('merge-stream');
 var runSequence = require('run-sequence');
