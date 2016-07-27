@@ -25,7 +25,7 @@ Features:
 
 ## Usage examples
 
-#### React 0.14
+#### React 15 & 0.14
 ```js
     var React = require('react');
     var ReactDOM = require('react-dom');
